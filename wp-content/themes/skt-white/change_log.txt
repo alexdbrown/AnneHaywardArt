@@ -86,3 +86,6 @@ iii) Solved responsive issue.
 
 Version 1.6.9
 i)   Rectified latest news image problem and excerpt problem.
+
+Version 1.7.0
+i)   Compressed image sizes and removed tab not working bug of WooCommerce.

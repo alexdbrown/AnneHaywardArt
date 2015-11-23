@@ -19,10 +19,15 @@ SKT White WordPress Theme is released under the terms of GNU GPL
 @import "../skt-white/style.css";
 
 .slider-main h1 {
-  font-size: 180px;
+  font-size: 120px;
   margin-top: 180px;
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: 100;
-  color: white;
+  color: #D9D7DD;
+  /*color: red;*/
   font-stretch: ultra-expanded;
+}
+
+.main-content {
+  background-color: red;
 }

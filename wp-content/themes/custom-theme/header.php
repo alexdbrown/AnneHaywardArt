@@ -14,6 +14,7 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <link href='https://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500|Titillium+Web:400,600|Playfair+Display:400,700|Cabin:400,700|Hind:400,600|Raleway:400,600|Roboto:400,700' rel='stylesheet' type='text/css'>
 <?php wp_head(); ?>
 </head>
 
@@ -31,10 +32,10 @@
 
 			$default_images = array(
 				1 => array(
-					'slide_image' => get_template_directory_uri()."/images/slides/slider1.png",
+					'slide_image' => get_template_directory_uri()."/images/slides/slider1.jpg",
 				),
 				2 => array(
-					'slide_image' => get_template_directory_uri()."/images/slides/slider2.png",
+					'slide_image' => get_template_directory_uri()."/images/slides/slider2.jpg",
 				),
 				3 => array(
 					'slide_image' => get_template_directory_uri()."/images/slides/slider3.jpg",
