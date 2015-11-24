@@ -32,14 +32,18 @@
 
 			$default_images = array(
 				1 => array(
-					'slide_image' => get_template_directory_uri()."/images/slides/slider1.jpg",
-				),
-				2 => array(
-					'slide_image' => get_template_directory_uri()."/images/slides/slider2.jpg",
-				),
-				3 => array(
-					'slide_image' => get_template_directory_uri()."/images/slides/slider3.jpg",
-				),
+					'slide_image' => get_template_directory_uri()."/images/slides/meseta.jpg",
+				)
+				// ,
+				// 1 => array(
+				// 	'slide_image' => get_template_directory_uri()."/images/slides/slider1.jpg",
+				// ),
+				// 2 => array(
+				// 	'slide_image' => get_template_directory_uri()."/images/slides/slider2.jpg",
+				// ),
+				// 3 => array(
+				// 	'slide_image' => get_template_directory_uri()."/images/slides/slider3.jpg",
+				// ),
 				// 4 => array(
 				// 	'slide_image' => get_template_directory_uri()."/images/slides/slider4.png",
 				// ),
