@@ -22,3 +22,8 @@ Sydney is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic,
 #content {
   margin-top: 200px;
 }
+
+.text-slider .maintitle {
+  font-size: 100px;
+  margin-top: 200px;
+}
